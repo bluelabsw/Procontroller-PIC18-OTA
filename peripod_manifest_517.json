@@ -1,0 +1,52 @@
+{
+  "schema": 1,
+  "generated": "2026-09-27T23:33:59Z",
+  "appliesTo": "peripod",
+  "images": [
+    {
+      "productId": 0,
+      "variant": "Tester",
+      "channel": "test",
+      "version": "5.17",
+      "file": "peripod_app_p0_Tester_v5.17_bd58ea1c.hex",
+      "sizeBytes": 83150,
+      "sha256": "bd58ea1c8607c3917dc08258c8ff768218a8476ad9195dbdb43b6bb64608dcbf"
+    },
+    {
+      "productId": 1,
+      "variant": "M3",
+      "channel": "release",
+      "version": "5.17",
+      "file": "peripod_app_p1_M3_v5.17_584b794b.hex",
+      "sizeBytes": 83150,
+      "sha256": "584b794ba10ae6b8d6532b9fb44ca52a403b38f2cadac7fd22af7baa2ec2b3b2"
+    },
+    {
+      "productId": 2,
+      "variant": "L3",
+      "channel": "release",
+      "version": "5.17",
+      "file": "peripod_app_p2_L3_v5.17_5ac5e9a0.hex",
+      "sizeBytes": 83150,
+      "sha256": "5ac5e9a012edece3967b00291b51ebf9133eaef7dc635c53cf1d7e45ffbe87e1"
+    },
+    {
+      "productId": 3,
+      "variant": "L4",
+      "channel": "release",
+      "version": "5.17",
+      "file": "peripod_app_p3_L4_v5.17_11ca6af7.hex",
+      "sizeBytes": 83150,
+      "sha256": "11ca6af77da17a5cf30f12761c80834f3e38db211a59b76cc4f7c79327aea7a9"
+    },
+    {
+      "productId": 4,
+      "variant": "M4",
+      "channel": "release",
+      "version": "5.17",
+      "file": "peripod_app_p4_M4_v5.17_d1e88358.hex",
+      "sizeBytes": 83150,
+      "sha256": "d1e883581a8263856dce30baf767be82bfef82093d18c4dcf34d727b995e4463"
+    }
+  ]
+}
